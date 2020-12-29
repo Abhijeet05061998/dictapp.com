@@ -1,6 +1,6 @@
 let input = document.querySelector('#input');
 let searchBtn = document.querySelector('#search');
-let apiKey = '<YOUR-API-KEY>';
+let apiKey = '20015b39-3e7c-4c8f-abde-ae258ea0da18';
 let notFound = document.querySelector('.not__found');
 let defBox = document.querySelector('.def');
 let audioBox = document.querySelector('.audio');
